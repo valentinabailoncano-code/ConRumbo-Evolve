@@ -1,0 +1,81 @@
+ts_iso,event,session_id,user_text,intent,confidence,protocol_id,step_index,latency_ms
+2025-09-26T12:45:13.367783,understand,cr_1758883499182_f921yf3fu,Hola emergencia,emergencia_general,0.3,,,1.0001659393310547
+2025-09-26T13:47:19.180097,understand,cr_1758887204961_p497xjugr,No respira,parada_respiratoria,1.0,,,2.9108524322509766
+2025-09-26T13:47:19.216694,protocol,cr_1758887204961_p497xjugr,,,,pa_no_respira_v1,,
+2025-09-26T13:47:19.250315,next_step,cr_1758887204961_p497xjugr,,,,pa_no_respira_v1,0,
+2025-09-26T13:47:39.235838,understand,cr_1758887251332_ykelc6f3r,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T13:47:39.293350,protocol,cr_1758887251332_ykelc6f3r,,,,pa_no_respira_v1,,
+2025-09-26T13:47:39.325351,next_step,cr_1758887251332_ykelc6f3r,,,,pa_no_respira_v1,0,
+2025-09-26T13:47:46.181323,next_step,cr_1758887251332_ykelc6f3r,,,,pa_no_respira_v1,1,
+2025-09-26T13:47:46.905441,next_step,cr_1758887251332_ykelc6f3r,,,,pa_no_respira_v1,2,
+2025-09-26T13:47:47.572481,next_step,cr_1758887251332_ykelc6f3r,,,,pa_no_respira_v1,3,
+2025-09-26T13:47:48.125438,next_step,cr_1758887251332_ykelc6f3r,,,,pa_no_respira_v1,4,
+2025-09-26T13:47:48.574996,next_step,cr_1758887251332_ykelc6f3r,,,,pa_no_respira_v1,5,
+2025-09-26T13:47:49.045047,next_step,cr_1758887251332_ykelc6f3r,,,,pa_no_respira_v1,6,
+2025-09-26T13:47:49.526525,next_step,cr_1758887251332_ykelc6f3r,,,,pa_no_respira_v1,7,
+2025-09-26T13:47:50.343760,next_step,cr_1758887251332_ykelc6f3r,,,,pa_no_respira_v1,7,
+2025-09-26T13:47:50.692049,next_step,cr_1758887251332_ykelc6f3r,,,,pa_no_respira_v1,7,
+2025-09-26T13:51:34.975540,understand,cr_1758887486694_94jplql1y,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T13:51:35.010447,protocol,cr_1758887486694_94jplql1y,,,,pa_no_respira_v1,,
+2025-09-26T13:51:35.039622,next_step,cr_1758887486694_94jplql1y,,,,pa_no_respira_v1,0,
+2025-09-26T13:52:18.733610,next_step,cr_1758887486694_94jplql1y,,,,pa_no_respira_v1,1,
+2025-09-26T13:52:24.771447,next_step,cr_1758887486694_94jplql1y,,,,pa_no_respira_v1,2,
+2025-09-26T14:40:57.409864,understand,cr_1758890449331_arku6uwem,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T14:40:57.468096,protocol,cr_1758890449331_arku6uwem,,,,pa_no_respira_v1,,
+2025-09-26T14:40:57.509583,next_step,cr_1758890449331_arku6uwem,,,,pa_no_respira_v1,0,
+2025-09-26T14:41:07.352287,next_step,cr_1758890449331_arku6uwem,,,,pa_no_respira_v1,1,
+2025-09-26T14:41:10.218805,next_step,cr_1758890449331_arku6uwem,,,,pa_no_respira_v1,2,
+2025-09-26T14:41:13.891823,next_step,cr_1758890449331_arku6uwem,,,,pa_no_respira_v1,3,
+2025-09-26T14:41:17.332749,next_step,cr_1758890449331_arku6uwem,,,,pa_no_respira_v1,4,
+2025-09-26T14:41:20.787754,next_step,cr_1758890449331_arku6uwem,,,,pa_no_respira_v1,5,
+2025-09-26T14:41:25.256065,next_step,cr_1758890449331_arku6uwem,,,,pa_no_respira_v1,6,
+2025-09-26T14:41:27.896661,next_step,cr_1758890449331_arku6uwem,,,,pa_no_respira_v1,7,
+2025-09-26T15:14:02.983787,understand,cr_1758892434480_ijum8267t,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T15:14:03.025651,protocol,cr_1758892434480_ijum8267t,,,,pa_no_respira_v1,,
+2025-09-26T15:14:03.058822,next_step,cr_1758892434480_ijum8267t,,,,pa_no_respira_v1,0,
+2025-09-26T15:14:13.563387,next_step,cr_1758892434480_ijum8267t,,,,pa_no_respira_v1,1,
+2025-09-26T15:14:16.324117,next_step,cr_1758892434480_ijum8267t,,,,pa_no_respira_v1,2,
+2025-09-26T16:56:45.827608,understand,cr_1758898598572_48ynt21,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T16:56:45.860078,protocol,cr_1758898598572_48ynt21,,,,pa_no_respira_v1,,
+2025-09-26T16:56:45.899897,next_step,cr_1758898598572_48ynt21,,,,pa_no_respira_v1,0,
+2025-09-26T16:57:01.534700,next_step,cr_1758898598572_48ynt21,,,,pa_no_respira_v1,1,
+2025-09-26T16:57:10.825401,next_step,cr_1758898598572_48ynt21,,,,pa_no_respira_v1,2,
+2025-09-26T16:57:20.758743,next_step,cr_1758898598572_48ynt21,,,,pa_no_respira_v1,3,
+2025-09-26T16:57:30.409888,next_step,cr_1758898598572_48ynt21,,,,pa_no_respira_v1,4,
+2025-09-26T17:48:49.196559,understand,cr_1758901713446_qmp783x,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T17:48:49.243521,protocol,cr_1758901713446_qmp783x,,,,pa_no_respira_v1,,
+2025-09-26T17:48:49.292736,next_step,cr_1758901713446_qmp783x,,,,pa_no_respira_v1,0,
+2025-09-26T17:49:01.999773,next_step,cr_1758901713446_qmp783x,,,,pa_no_respira_v1,1,
+2025-09-26T18:02:12.754882,understand,cr_1758902519731_jsfr5tx,No respira,parada_respiratoria,1.0,,,1.102447509765625
+2025-09-26T18:02:12.819816,protocol,cr_1758902519731_jsfr5tx,,,,pa_no_respira_v1,,
+2025-09-26T18:02:12.860131,next_step,cr_1758902519731_jsfr5tx,,,,pa_no_respira_v1,0,
+2025-09-26T18:02:27.077770,next_step,cr_1758902519731_jsfr5tx,,,,pa_no_respira_v1,1,
+2025-09-26T18:02:32.494769,next_step,cr_1758902519731_jsfr5tx,,,,pa_no_respira_v1,2,
+2025-09-26T18:10:54.172545,understand,cr_1758903041652_9e5k3ub,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T18:10:54.205154,protocol,cr_1758903041652_9e5k3ub,,,,pa_no_respira_v1,,
+2025-09-26T18:10:54.242514,next_step,cr_1758903041652_9e5k3ub,,,,pa_no_respira_v1,0,
+2025-09-26T18:11:10.355160,next_step,cr_1758903041652_9e5k3ub,,,,pa_no_respira_v1,1,
+2025-09-26T18:11:15.758303,next_step,cr_1758903041652_9e5k3ub,,,,pa_no_respira_v1,2,
+2025-09-26T18:11:22.246078,next_step,cr_1758903041652_9e5k3ub,,,,pa_no_respira_v1,3,
+2025-09-26T18:11:44.840364,understand,cr_1758903084849_ukkyexi,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T18:11:44.889058,protocol,cr_1758903084849_ukkyexi,,,,pa_no_respira_v1,,
+2025-09-26T18:11:44.936746,next_step,cr_1758903084849_ukkyexi,,,,pa_no_respira_v1,0,
+2025-09-26T18:13:29.306080,understand,cr_1758903198205_fgjmehf,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T18:13:29.403230,protocol,cr_1758903198205_fgjmehf,,,,pa_no_respira_v1,,
+2025-09-26T18:13:29.440439,next_step,cr_1758903198205_fgjmehf,,,,pa_no_respira_v1,0,
+2025-09-26T18:13:53.476501,understand,cr_1758903219485_gj93pld,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T18:13:53.511814,protocol,cr_1758903219485_gj93pld,,,,pa_no_respira_v1,,
+2025-09-26T18:13:53.542935,next_step,cr_1758903219485_gj93pld,,,,pa_no_respira_v1,0,
+2025-09-26T18:19:29.718821,understand,cr_1758903551161_0g6o9l9,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T18:19:29.768937,protocol,cr_1758903551161_0g6o9l9,,,,pa_no_respira_v1,,
+2025-09-26T18:19:29.802936,next_step,cr_1758903551161_0g6o9l9,,,,pa_no_respira_v1,0,
+2025-09-26T18:20:09.368814,understand,cr_1758903603789_3johtr4,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T18:20:09.400807,protocol,cr_1758903603789_3johtr4,,,,pa_no_respira_v1,,
+2025-09-26T18:20:09.471217,next_step,cr_1758903603789_3johtr4,,,,pa_no_respira_v1,0,
+2025-09-26T18:20:35.487724,understand,cr_1758903629672_y0ri38x,No respira,parada_respiratoria,1.0,,,0.8330345153808594
+2025-09-26T18:20:35.520277,protocol,cr_1758903629672_y0ri38x,,,,pa_no_respira_v1,,
+2025-09-26T18:20:35.549490,next_step,cr_1758903629672_y0ri38x,,,,pa_no_respira_v1,0,
+2025-09-26T18:20:43.567070,understand,cr_1758903638013_36fvmzo,No respira,parada_respiratoria,1.0,,,0.0
+2025-09-26T18:20:43.605250,protocol,cr_1758903638013_36fvmzo,,,,pa_no_respira_v1,,
+2025-09-26T18:20:43.642798,next_step,cr_1758903638013_36fvmzo,,,,pa_no_respira_v1,0,
+2025-09-26T18:38:29.782204,understand,cr_1758904701962_yda7m3n,Respira,unknown,0.0,,,0.0
