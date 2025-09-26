@@ -1,0 +1,24 @@
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos
+.venv/
+venv/
+env/
+
+# Datos locales / DB / logs
+*.db
+*.sqlite3
+*.log
+
+# Node/Frontend
+node_modules/
+dist/
+build/
+
+# SO
+.DS_Store
+Thumbs.db
