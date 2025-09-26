@@ -1,0 +1,109 @@
+{
+  "pa_no_respira_v1": {
+    "title": "Parada respiratoria (adulto)",
+    "steps": [
+      "Verificar consciencia: toque los hombros y grite '¿Está bien?'",
+      "Llamar al 112 inmediatamente",
+      "Inclinar la cabeza hacia atrás y levantar el mentón",
+      "Verificar respiración durante 10 segundos",
+      "Si no respira, iniciar ventilación de rescate",
+      "Dar 2 ventilaciones de rescate cada 5-6 segundos",
+      "Continuar hasta que llegue ayuda médica"
+    ],
+    "meta": {
+      "age": "adulto",
+      "niño": false,
+      "tags": ["rcp", "dea"]
+    }
+  },
+  "pa_atragantamiento_v1": {
+    "title": "Atragantamiento",
+    "steps": [
+      "Preguntar '¿Se está atragantando?'",
+      "Si puede hablar o toser, animar a toser",
+      "Si no puede hablar, realizar maniobra de Heimlich",
+      "Colocarse detrás de la persona",
+      "Poner las manos en el abdomen, arriba del ombligo",
+      "Realizar compresiones abdominales hacia arriba y adentro",
+      "Repetir hasta que el objeto salga o la persona pierda consciencia",
+      "Si pierde consciencia, iniciar RCP"
+    ],
+    "meta": {
+      "age": "adulto",
+      "niño": false,
+      "tags": ["atragantamiento"]
+    }
+  },
+  "pa_hemorragia_v1": {
+    "title": "Hemorragia severa",
+    "steps": [
+      "Evaluar la gravedad del sangrado",
+      "Aplicar presión directa sobre la herida",
+      "Elevar la extremidad afectada si es posible",
+      "Aplicar vendaje compresivo",
+      "Si el sangrado continúa, aplicar más vendajes encima",
+      "Llamar al 112",
+      "Mantener a la persona calmada y abrigada",
+      "Monitorear signos vitales hasta que llegue ayuda"
+    ],
+    "meta": {
+      "age": "adulto",
+      "niño": false,
+      "tags": ["hemorragia"]
+    }
+  },
+  "pa_inconsciente_v1": {
+    "title": "Persona inconsciente",
+    "steps": [
+      "Verificar respuesta: tocar hombros y gritar",
+      "Llamar al 112 inmediatamente",
+      "Verificar respiración y pulso",
+      "Si respira normalmente, colocar en posición de recuperación",
+      "Inclinar la cabeza hacia un lado",
+      "Doblar la rodilla superior",
+      "Monitorear respiración constantemente",
+      "Mantener vías respiratorias despejadas"
+    ],
+    "meta": {
+      "age": "adulto",
+      "niño": false,
+      "tags": ["inconsciente"]
+    }
+  },
+  "pa_convulsiones_v1": {
+    "title": "Convulsiones",
+    "steps": [
+      "Mantener la calma y cronometrar la convulsión",
+      "Proteger a la persona de lesiones",
+      "Retirar objetos peligrosos del área",
+      "Colocar algo suave bajo la cabeza",
+      "NO introducir nada en la boca",
+      "Cuando termine, colocar en posición de recuperación",
+      "Llamar al 112 si dura más de 5 minutos",
+      "Permanecer con la persona hasta que esté completamente consciente"
+    ],
+    "meta": {
+      "age": "adulto",
+      "niño": false,
+      "tags": ["convulsiones"]
+    }
+  },
+  "pa_quemadura_v1": {
+    "title": "Quemaduras",
+    "steps": [
+      "Alejar a la persona de la fuente de calor",
+      "Enfriar la quemadura con agua fría durante 10-20 minutos",
+      "Retirar joyas y ropa suelta (no adherida)",
+      "Cubrir con vendaje estéril o paño limpio",
+      "NO aplicar hielo, mantequilla o remedios caseros",
+      "Para quemaduras graves, llamar al 112",
+      "Tratar el shock si es necesario",
+      "Mantener a la persona calmada y hidratada"
+    ],
+    "meta": {
+      "age": "adulto",
+      "niño": false,
+      "tags": ["quemaduras"]
+    }
+  }
+}
